@@ -1,0 +1,382 @@
+"English" ---> "한국어"
+"English.rtf" ---> "Korean.rtf"
+" %2%" ---> " %2%"
+"%1$.2fKB/s down - %2$.2fKB/s up" ---> "%1$.2fKB/s 다운로드 - %2$.2fKB/s 업로드" 
+"%1$.2fMB down - %2$.2fMB up" ---> "%1$.2fMB 다운로드 - %2$.2fMB 업로드"
+"%1$.2fMB of %2$.2fMB" --->  ??? 
+"%1% DHT node(s)" --->  ??? 
+"%1% active torrent(s)" --->  ??? 
+"%1% peers from DHT for %2%." --->  ??? 
+"%1% port %2% mapping succeeded." --->  ??? 
+"%1% port mapping request failed." --->  ??? 
+"%1%, %2%." --->  ??? 
+"%2%. %3% Peers. (%1%)" --->  ??? 
+"&Pause All" --->  ??? 
+"&Resume All" --->  ??? 
+"(C) Eoin O'Callaghan 2010" --->  ??? 
+"(D-U) %1$.2fKB/s - %2$.2fKB/s" --->  ??? 
+"(D-U) 0000.000KB/s - 0000.000KB/s" --->  ??? 
+"About" ---> "정보"
+"Above Normal" ---> "普通"
+"Active downloads :" --->  ??? 
+"Active seeds :" --->  ??? 
+"Active seeds hard limit:" --->  ??? 
+"Active" ---> ""
+"Add New Peer" --->  ??? 
+"Add New Tracker" --->  ??? 
+"Add New Web Seed or DHT Node" --->  ??? 
+"Add Torrent" ---> "토렌트 추가" 
+"Add" ---> "추가"
+"Adjust Queue Position" --->  ??? 
+"Advanced GUI" ---> "高度なGUI"
+"Alert %2%, Status code: %4%, Times %3%. (%1%)" --->  ??? 
+"Allocating" --->  ??? 
+"Allocation Mode:" --->  ??? 
+"Allow only one instance to run" --->  ??? 
+"An invalid connection policy, %1%, was passed as an encryption setting." --->  ??? 
+"An invalid encoding level, %1%, was passed as an encryption setting." --->  ??? 
+"Announce on all tiers" --->  ??? 
+"Announce to all trackers" --->  ??? 
+"Apply" ---> "適用"
+"Are you sure you wish to close Halite? Doing so will stop any active torrents" --->  ??? 
+"Are you sure you wish to delete all downloaded data?" --->  ??? 
+"Auto Sort" ---> "자동 정렬"
+"Auto-managed" --->  ??? 
+"BitTorrent" ---> "비트토렌트"
+"Bittorrent Event: %1%." ---> "비트토렌트 이벤트: %1%."
+"Block %2% of piece %3% downloading. (%1%)" --->  ??? 
+"Block %2% of piece %3% finished. (%1%)" --->  ??? 
+"Both" ---> "両"
+"Cache Status, Current Total Size : %1.2f MiB" --->  ??? 
+"Cache Write Size :" --->  ??? 
+"Calculating Piece Hashes..." --->  ??? 
+"Cancel" ---> "취소"
+"Checking Files" ---> "파일 확인" 
+"Checking Resume Data" --->  ??? 
+"Choked" --->  ??? 
+"Clear IP database" ---> "IP データベースを削除"
+"Client" ---> "클라이언트"
+"Close to tray" ---> ""
+"Comment" --->  ??? 
+"Completed" ---> "완료"
+"Completed:" ---> "완료됨:"
+"Confirm on close" --->  ??? 
+"Connecting to Tracker" --->  ??? 
+"Connecting" --->  ??? 
+"Connection Policies" --->  ??? 
+"Construct a New Torrent" ---> "새 토렌트 생성"
+"Copies" --->  ??? 
+"Country" ---> "국가"
+"Creating Torrent..." ---> "토렌트 만드는 중..."
+"Creating a New Torrent File" ---> "새 토렌트 파일 만들기"
+"Creator" ---> "만든 이"
+"Critical" --->  ??? 
+"Current Cache Status" --->  ??? 
+"Currently set to '%1%' at %2%" --->  ??? 
+"DHT Node" --->  ??? 
+"DHT disabled" --->  ??? 
+"DHT session could not start. Try selecting another port in the settings." --->  ??? 
+"DHT" ---> "DHT"
+"Debug Event: %1%." --->  ??? 
+"Debug" --->  ??? 
+"Default save folder :" --->  ??? 
+"Delete" ---> "削除"
+"Details" --->  ??? 
+"Dev Msg: %1%." --->  ??? 
+"Dir." --->  ??? 
+"Disabled" ---> "使用しない"
+"Distributed Hash Tables" --->  ??? 
+"Don't Manage Torrent(s)" --->  ??? 
+"Don't count slow torrents." --->  ??? 
+"Don't download" ---> "ダウンロードしない"
+"Down" ---> "下り"
+"Download Rate (KB/s) :" ---> "下り速度 (KB/秒)"
+"Download" ---> "ダウンロード"
+"Downloaded %1$.2fMB, Uploaded %2$.2fMB, Ratio %3$.2f." --->  ??? 
+"Downloaded" ---> "다운로드됨"
+"Downloading Metadata" ---> "메타데이터 다운로드 중"
+"Downloading" ---> "다운로드 중"
+"E&xit" ---> "종료(&x)"
+"ETA" ---> "ETA"
+"ETA:" ---> "予想完了時間"
+"Edit Download Folders" ---> "다운로드 폴더 고치기"
+"Edit Peer" ---> "피어 고치기"
+"Edit Torrent Save Folders" ---> "토렌트 저장 폴더 고치기"
+"Edit Tracker" ---> "트래커 편집"
+"Edit" ---> "편집"
+"Enable DHT (will not apply to private torrents)" --->  ??? 
+"Enable IP filtering." ---> "IP filteringを使用"
+"Enable Options or libtorrent Plugins" --->  ??? 
+"Enable Protocol Encryption." ---> "プロトコル暗号化を使用"
+"Enable Remote Control" --->  ??? 
+"Enabled" ---> "使用する"
+"Encoding Level" --->  ??? 
+"Enter any Web Seed URLs and DHT Nodes." --->  ??? 
+"Enter the tracker URLs for the torrent." --->  ??? 
+"Error!" ---> "에러!"
+"Exception caught: %1%, from %2%." --->  ??? 
+"Exit Halite" ---> "Halite 끝내기"
+"Failed, %1%" --->  ??? 
+"Fast resume failed: %2%. (%1%)" --->  ??? 
+"File" ---> "파일"
+"Filename" ---> "파일 이름"
+"Files" ---> "파일들"
+"Filtering %1% range(s)" --->  ??? 
+"Finish Time" ---> "종료 시간"
+"Finished" ---> "종료됨"
+"Force Close" ---> "강제 종료"
+"Forced" ---> "強制使用"
+"General Settings" ---> "設定"
+"General" --->  ??? 
+"Generated Torrent Name (Cannot change)" --->  ??? 
+"Global Limits" ---> "전역 제한" 
+"Globals" ---> "전역"
+"Halite BitTorrent Client" --->  ??? 
+"Halite Debug Dialog" --->  ??? 
+"Halite importing IP ranges..." --->  ??? 
+"Halite not listening!" --->  ??? 
+"Halite shutting down..." --->  ??? 
+"Handshake" ---> "핸드쉐이크"
+"Has choked us" --->  ??? 
+"Hash failed for piece %2% of %1%." --->  ??? 
+"IP Filter blocked %1%, %2%." --->  ??? 
+"IP Filtering" ---> "IP 필터링"
+"IP filter disabled" --->  ??? 
+"IP version 6 listen attempt failed. Not serious." --->  ??? 
+"Import ipfilter.dat" --->  ??? 
+"Importing IP Filters..." --->  ??? 
+"Incoming" ---> "下り"
+"Info" ---> "정보"
+"Informed of external IP address: %1%." --->  ??? 
+"Interested in us" --->  ??? 
+"Interesting" --->  ??? 
+"Invalid torrent (%1%) from %2%." --->  ??? 
+"It will take the BitTorrent session a moment to shutdown cleanly after which this message will disappear and the program will close." --->  ??? 
+"Language (requires restart)" ---> "言語 (Haliteの次回起動時に)"
+"Limit the no. of half-open connections" --->  ??? 
+"List of Trackers." --->  ??? 
+"Loading IP filters..." --->  ??? 
+"Local connection" --->  ??? 
+"Log debug events." --->  ??? 
+"Log off Windows" --->  ??? 
+"Log to file." --->  ??? 
+"Logging" ---> "ログ"
+"Manage Torrent(s)" --->  ??? 
+"Managed Downloading" --->  ??? 
+"Managed Seeding" --->  ??? 
+"Managed Torrent" --->  ??? 
+"Managed" --->  ??? 
+"Match the listen port number (recommended)." --->  ??? 
+"Max Size (MiB) :" ---> "최대 크기(MiB)" 
+"Max failures : " --->  ??? 
+"Max replies : " --->  ??? 
+"Maximum" ---> "최대"
+"Message" ---> "메세지"
+"Metadata Plugin" ---> "메타데이터 플러그인" 
+"Minimize to tray." ---> "最小化時トレイに格納"
+"Move Down" --->  ??? 
+"Move To Bottom" --->  ??? 
+"Move To Top" --->  ??? 
+"Move Up" --->  ??? 
+"Move finished torrents to :" --->  ??? 
+"Move the completed torrent to:" --->  ??? 
+"N/A" ---> "無し"
+"NAT-PMP" --->  ??? 
+"Name" --->  "이름"
+"Name:" ---> "이름:"
+"New" ---> "새로 만들기"
+"None" ---> "없음"
+"Normal" ---> "低"
+"Not Started" --->  ??? 
+"Not currently set to take any action" --->  ??? 
+"Note. Compact Allocation is incompatible with File Selection" --->  ??? 
+"OK" ---> "확인" 
+"OS reported error for file '%1%'" --->  ??? 
+"Ok" ---> "확인"
+"On parole" --->  ??? 
+"Open &Halite" ---> "Halite 열기(&H)"
+"Open Download Folder" ---> "다운로드 폴더 열기"
+"Open a (single) port between : " ---> "から"
+"Outgoing" ---> "上り"
+"Output File" ---> "출력 파일"
+"Overhead:" ---> "오버헤드"
+"Password : " ---> "비밀번호 : "
+"Path" ---> "경로"
+"Pause all torrents" ---> "모든 토렌드 중지" 
+"Pause" ---> "중지"
+"Paused" ---> "중지됨"
+"Pausing" ---> "중지중" 
+"Peer %2%: %1%." ---> "피어 %2%: %1%."
+"Peer Event: %1%." ---> "피어 이벤트: %1%."
+"Peer banned %2%. (%1%)" --->  ??? 
+"Peer" ---> "피어"
+"Peers" ---> "피어들"
+"Peers:" ---> "피어들:"
+"Piece %2% finished. (%1%)" --->  ??? 
+"Piece Expiry (sec) :" --->  ??? 
+"Piece Size (KBs)" ---> "조각 크기(KBs)" 
+"Plaintext Encrypted" --->  ??? 
+"Plaintext" --->  ??? 
+"Port %1% open" ---> "포트 %1% 열기"
+"Port (UDP)" ---> "포트 (UDP)"
+"Port : " ---> "포트 : "
+"Port Forwarding" ---> "포트 포워딩" 
+"Port to listen on : " ---> "着信接続用ポート:"
+"Port" ---> "포트"
+"Ports" ---> "포트들" 
+"Prefer RC4" --->  ??? 
+"Priority" ---> "優先度"
+"Private" ---> "비공개"
+"Progress" ---> "진행도"
+"Protocol Encryption" ---> "프로토콜 암호화"
+"Proxies" ---> "プロクシ"
+"Proxy Host/IP : " ---> "プロクシサーバ/IP"
+"Proxy Settings" ---> "プロクシの設定"
+"Queue Position" --->  ??? 
+"Queue System" --->  ??? 
+"Queue View" --->  ??? 
+"Queued for Checking" --->  ??? 
+"Queued" --->  ??? 
+"RC4 Encrypted" --->  ??? 
+"RC4" ---> "RC4"
+"Rates:" ---> "속도:"
+"Ratio (this session):" ---> "共有比 (このセッションに):"
+"Ratio" --->  ??? 
+"Ratio:" ---> "共有比:"
+"Read Cache Hit Ratio :" --->  ??? 
+"Read Size :" ---> "읽기 크기 :"
+"Reannounce" --->  ??? 
+"Recheck Files" ---> "파일 다시 확인하기" 
+"Remaining" --->  ??? 
+"Remaining:" ---> "残り:"
+"Remote Control Options" ---> "원격 제어 컨트롤" 
+"Remote Control" ---> "원격 제어" 
+"Remove" ---> "지우기"
+"Reset" ---> "초기화"
+"Resolve Countries from IP" --->  ??? 
+"Resume data generated. (%1%)" --->  ??? 
+"Resume data generation failed. (%1%)" --->  ??? 
+"Resume" ---> "계속하기"
+"Resuming torrent. (%1%)" --->  ??? 
+"Review settings when adding torrent." --->  ??? 
+"Save" ---> "저장"
+"Saving Torrent" ---> "토렌트 저장" 
+"Search branching : " ---> ""
+"Security" ---> "セキュリティ"
+"Seeding Limits" --->  ??? 
+"Seeding" --->  ??? 
+"Seeds" --->  ??? 
+"Seeds:" ---> "シード数:"
+"Select Timed Action" --->  ??? 
+"Select a directory to save the downloads to. Select cancel to accept default 'incoming' location." --->  ??? 
+"Select a directory to save the files to or cancel to not download torrent at all." --->  ??? 
+"Select a file or directory from which to construct the torrent." --->  ??? 
+"Select a random port within this range." --->  ??? 
+"Select action to take :" --->  ??? 
+"Select the (TCP) port (or range) on which to listen for incoming connections." --->  ??? 
+"Send login info to trackers." --->  ??? 
+"Set Priority" ---> "優先度"
+"Set as Primary" --->  ??? 
+"Set time :" ---> "시간 설정:"
+"Severity" ---> "厳粛"
+"Share ratio limit:" --->  ??? 
+"Show this message in future" ---> "このチェックを常に行う"
+"Shutdown Windows" --->  ??? 
+"Shutting down session" --->  ??? 
+"Size" ---> "크기"
+"Smart Ban Plugin" --->  ??? 
+"Snubbed" --->  ??? 
+"Standard exception (%1%) thrown from %2%." --->  ??? 
+"Start Time" --->  ??? 
+"Status" ---> "状態"
+"Status:" ---> "状態:"
+"Stop" --->  ??? 
+"Stopped initially (Allows changing advanced setting)" --->  ??? 
+"Stopped" ---> "중지됨"
+"Stopping Torrents" ---> "토렌트 중지하는 중"
+"Stopping" ---> "중지하는 중"
+"Subject to an optimistic unchoke" --->  ??? 
+"Successfully %1%." --->  ??? 
+"Super-seeding" ---> "슈퍼-시딩"
+"Supports extensions" --->  ??? 
+"SysDateTimePick32" --->  ??? 
+"Take no action" ---> "동작 없음" 
+"Test" ---> "테스트"
+"The BitTorrent session could not start. Try selecting another port in the settings." --->  ??? 
+"The socket infrastructure failed to start so Halite is forced to close. Please ensure no program is blocking Halites network access." --->  ??? 
+"These options set global maximums which will always be honoured." --->  ??? 
+"These options specify the default limits applied to new torrents." --->  ??? 
+"This Session Downloaded %1$.2fMB, Uploaded %2$.2fMB, Ratio %3$.2f." --->  ??? 
+"Tier" ---> "段"
+"Time left:" ---> "残り時間"
+"Time limit (sec):" --->  ??? 
+"Time ratio limit:" --->  ??? 
+"Time remaining: %1% hour(s), %2% minute(s) and %3% second(s)" --->  ??? 
+"Time" ---> "시간"
+"Timeout (seconds) : " --->  ??? 
+"Toggle Superseeding" --->  ??? 
+"Toolbar2k.bmp" --->  ??? 
+"Torrent %1% completed." --->  ??? 
+"Torrent %1% file %2% completed." --->  ??? 
+"Torrent %1% file %2% renamed failed." --->  ??? 
+"Torrent %1% file %2% renamed to %3%." --->  ??? 
+"Torrent %1% finished." --->  ??? 
+"Torrent %1% metadata failed!" --->  ??? 
+"Torrent %1% metadata recieved." --->  ??? 
+"Torrent %1% paused." --->  ??? 
+"Torrent (%1%) exception caught: %2% from %3%." --->  ??? 
+"Torrent Completed!" ---> "토렌트 완료"
+"Torrent Defaults" --->  ??? 
+"Torrent File" ---> "토렌트 파일"
+"Torrent Root" ---> "토렌트 경로"
+"Torrent and Data" ---> ".torrentファイルとダウンロードデータを"
+"Torrent completed balloon" --->  ??? 
+"Torrent connection limits:" ---> "トレントあたりの最大ピア接続数"
+"Torrent error: %1% (%2%)" --->  ??? 
+"Torrent save folder:" --->  ??? 
+"Torrent transfer rates (KB/s):" ---> "速度 (KB/秒)"
+"Torrent" ---> "トレント"
+"Torrent:" ---> "トレント:"
+"Torrents" ---> "トレント"
+"Total max connections :" --->  ??? 
+"Total transfer including protocol overhead: %1$.2fMB down and %2$.2fMB up." --->  ??? 
+"Total upload slots :" --->  ??? 
+"Total" ---> "サイズ"
+"Tracker Announce. (%1%)" --->  ??? 
+"Tracker Event: %1%." --->  ??? 
+"Tracker warning: %2%! (%1%)" --->  ??? 
+"Tracker" ---> "트래커"
+"Tracker:" ---> "트래커:"
+"Trackers" ---> "트래커" 
+"Transferred:" --->  ??? 
+"Type" ---> "타입"
+"UPnP router model (if recognised)." --->  ??? 
+"UPnP" ---> "UPnP"
+"URL Seed %2%, %3%. (%1%)" --->  ??? 
+"URL" ---> "URL"
+"UnPlug and Play" ---> "언플러그와 플레이"
+"Unicode exception: %1%." --->  ??? 
+"Unmanaged" --->  ??? 
+"Up" ---> "上り"
+"Update in:" ---> "更新時間:"
+"Upload Rate (KB/s) :" ---> "업로드 속도(KB/초) :"
+"업로드만" ---> "업로드만"
+"업로드" ---> "업로드"
+"Uploaded" ---> "업로드됨"
+"Use a proxy." ---> "프록시 사용."
+"Use this network interface" ---> "이 네트워크 인터페이스 사용하기"
+"User cancelled Torrent file creation" ---> "사용자가 토렌트 파일 생성을 취소함"
+"Username : " ---> "사용자 이름 : "
+"Warning" ---> "주의"
+"Web Seed" ---> "웹 시드"
+"Web Seeds and DHT Nodes" --->  ??? 
+"Write Cache Hit Ratio :" --->  ??? 
+"Xml Exception (%1%) with %2%." --->  ??? 
+"\r\0" --->  ??? 
+"libTorrrent based client" --->  ??? 
+"random up to" --->  ??? 
+"resource.h\0" --->  ??? 
+"to" ---> "まで"
+"uTorrent Metadata Plugin" --->  ??? 
+"uTorrent Peer Exchange Plugin" --->  ??? 
+"∞" --->  ??? 
