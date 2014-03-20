@@ -10,20 +10,20 @@
 "%1% port %2% mapping succeeded." --->  ??? 
 "%1% port mapping request failed." --->  ??? 
 "%1%, %2%." --->  ??? 
-"%2%. %3% Peers. (%1%)" --->  ??? 
-"&Pause All" --->  ??? 
-"&Resume All" --->  ??? 
+"%2%. %3% Peers. (%1%)" ---> "%2%. %3% 피어. (%1%)"
+"&Pause All" ---> "모두 중지(&P)"
+"&Resume All" ---> "모두 재시작(&R)"
 "(C) Eoin O'Callaghan 2010" --->  ??? 
 "(D-U) %1$.2fKB/s - %2$.2fKB/s" --->  ??? 
 "(D-U) 0000.000KB/s - 0000.000KB/s" --->  ??? 
 "About" ---> "정보"
 "Above Normal" ---> "普通"
 "Active downloads :" --->  ??? 
-"Active seeds :" --->  ??? 
+"Active seeds :" ---> "활성화된 시드 :"
 "Active seeds hard limit:" --->  ??? 
-"Active" ---> ""
-"Add New Peer" --->  ??? 
-"Add New Tracker" --->  ??? 
+"Active" ---> "활성화"
+"Add New Peer" ---> "새 피어 추가"
+"Add New Tracker" ---> "새 트래커 추가"
 "Add New Web Seed or DHT Node" --->  ??? 
 "Add Torrent" ---> "토렌트 추가" 
 "Add" ---> "추가"
@@ -57,7 +57,7 @@
 "Clear IP database" ---> "IP データベースを削除"
 "Client" ---> "클라이언트"
 "Close to tray" ---> ""
-"Comment" --->  ??? 
+"Comment" ---> "주석"
 "Completed" ---> "완료"
 "Completed:" ---> "완료됨:"
 "Confirm on close" --->  ??? 
@@ -87,15 +87,15 @@
 "Disabled" ---> "使用しない"
 "Distributed Hash Tables" --->  ??? 
 "Don't Manage Torrent(s)" --->  ??? 
-"Don't count slow torrents." --->  ??? 
-"Don't download" ---> "ダウンロードしない"
-"Down" ---> "下り"
-"Download Rate (KB/s) :" ---> "下り速度 (KB/秒)"
-"Download" ---> "ダウンロード"
+"Don't count slow torrents." ---> "느린 토렌트는 세지 않기"
+"Don't download" ---> "다운로드 하지 마세요"
+"Down" ---> "다운"
+"Download Rate (KB/s) :" ---> "다운로드 속도 (KB/초)"
+"Download" ---> "다운로드"
 "Downloaded %1$.2fMB, Uploaded %2$.2fMB, Ratio %3$.2f." --->  ??? 
 "Downloaded" ---> "다운로드됨"
 "Downloading Metadata" ---> "메타데이터 다운로드 중"
-"Downloading" ---> "다운로드 중"
+"Downloading" ---> "다운로드중"
 "E&xit" ---> "종료(&x)"
 "ETA" ---> "ETA"
 "ETA:" ---> "予想完了時間"
