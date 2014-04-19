@@ -20,23 +20,23 @@
 "Above Normal" ---> "普通"
 "Active downloads :" ---> "활성된 다운로드 :"
 "Active seeds :" ---> "활성된 시드 :"
-"Active seeds hard limit:" --->  ??? 
+"Active seeds hard limit:" ---> "활성화된 시드 제한:"
 "Active" ---> "활성화"
 "Add New Peer" ---> "새 피어 추가"
 "Add New Tracker" ---> "새 트래커 추가"
 "Add New Web Seed or DHT Node" ---> "새 웹 시드 또는 DHT노드 추가"
 "Add Torrent" ---> "토렌트 추가" 
 "Add" ---> "추가"
-"Adjust Queue Position" --->  ??? 
-"Advanced GUI" ---> "高度なGUI"
+"Adjust Queue Position" ---> "큐 위치 조정"
+"Advanced GUI" ---> "GUI"
 "Alert %2%, Status code: %4%, Times %3%. (%1%)" --->  ??? 
-"Allocating" --->  ??? 
-"Allocation Mode:" --->  ??? 
-"Allow only one instance to run" --->  ??? 
+"Allocating" --->  "할당 중"
+"Allocation Mode:" ---> "할당 모드:"
+"Allow only one instance to run" ---> "하나의 인스턴스만 허용" 
 "An invalid connection policy, %1%, was passed as an encryption setting." --->  ??? 
 "An invalid encoding level, %1%, was passed as an encryption setting." --->  ??? 
 "Announce on all tiers" --->  ??? 
-"Announce to all trackers" --->  ??? 
+"Announce to all trackers" --->  "모든 트래커들에게 알림"
 "Apply" ---> "적용"
 "Are you sure you wish to close Halite? Doing so will stop any active torrents" --->  ??? 
 "Are you sure you wish to delete all downloaded data?" --->  ??? 
@@ -65,30 +65,30 @@
 "Connecting" ---> "연결"
 "Connection Policies" --->  ??? 
 "Construct a New Torrent" ---> "새 토렌트 생성"
-"Copies" --->  ??? 
+"Copies" ---> "복사"
 "Country" ---> "국가"
 "Creating Torrent..." ---> "토렌트 만드는 중..."
 "Creating a New Torrent File" ---> "새 토렌트 파일 만들기"
 "Creator" ---> "만든이"
 "Critical" ---> "치명적"
 "Current Cache Status" ---> "현재 캐쉬 상태" 
-"Currently set to '%1%' at %2%" --->  ??? 
+"Currently set to '%1%' at %2%" --->  "현재 %2%에서 '%1%'로 설정"
 "DHT Node" ---> "DHT 노드"
 "DHT disabled" ---> "DHT 비활성됨"
 "DHT session could not start. Try selecting another port in the settings." ---> "DHT세션을 시작할 수 없습니다. 설정에서 다른 포트를 선택하세요."
 "DHT" ---> "DHT"
 "Debug Event: %1%." ---> "디버그 이벤트: %1%."
 "Debug" ---> "디버그" 
-"Default save folder :" --->  ??? 
+"Default save folder :" ---> "기본 저장폴더"
 "Delete" ---> "지우기"
 "Details" ---> "자세히"
-"Dev Msg: %1%." ---> "Dev Msg: %1%."
+"Dev Msg: %1%." ---> "개발 메세지: %1%."
 "Dir." ---> "친애하는"
 "Disabled" ---> "비활성됨"
-"Distributed Hash Tables" --->  ??? 
-"Don't Manage Torrent(s)" --->  ??? 
-"Don't count slow torrents." ---> "느린 토렌트는 세지 않기"
-"Don't download" ---> "다운로드 하지 마세요"
+"Distributed Hash Tables" --->  "배포된 해쉬 테이블" 
+"Don't Manage Torrent(s)" --->  "토렌트(들) 관리 안함"
+"Don't count slow torrents." ---> "느린 토렌트는 세지 않음"
+"Don't download" ---> "다운로드 하지 않음"
 "Down" ---> "다운"
 "Download Rate (KB/s) :" ---> "다운로드 속도 (KB/초)"
 "Download" ---> "다운로드"
@@ -98,53 +98,53 @@
 "Downloading" ---> "다운로드중"
 "E&xit" ---> "종료(&x)"
 "ETA" ---> "ETA"
-"ETA:" ---> "予想完了時間"
+"ETA:" ---> "ETA:"
 "Edit Download Folders" ---> "다운로드 폴더 고치기"
 "Edit Peer" ---> "피어 고치기"
 "Edit Torrent Save Folders" ---> "토렌트 저장 폴더 고치기"
 "Edit Tracker" ---> "트래커 편집"
 "Edit" ---> "편집"
 "Enable DHT (will not apply to private torrents)" --->  ??? 
-"Enable IP filtering." ---> "IP filteringを使用"
-"Enable Options or libtorrent Plugins" --->  ??? 
+"Enable IP filtering." ---> "IP 필터링 사용"
+"Enable Options or libtorrent Plugins" --->  "libtorrent 플러그인 또는 옵션 사용"
 "Enable Protocol Encryption." ---> "프로토콜 암호화 활성화"
-"Enable Remote Control" --->  ??? 
-"Enabled" ---> "使用する"
-"Encoding Level" --->  ??? 
-"Enter any Web Seed URLs and DHT Nodes." --->  ??? 
-"Enter the tracker URLs for the torrent." --->  ??? 
+"Enable Remote Control" ---> "원격 조종 사용"
+"Enabled" ---> "사용"
+"Encoding Level" --->  "인코딩 수준" 
+"Enter any Web Seed URLs and DHT Nodes." ---> "웹 시드 주소와 DHT 노드를 입력하세요."
+"Enter the tracker URLs for the torrent." ---> "토렌트의 트래커를 입력하세요."
 "Error!" ---> "에러!"
-"Exception caught: %1%, from %2%." --->  ??? 
+"Exception caught: %1%, from %2%." ---> "에러 발견: %2%에서 %1%."
 "Exit Halite" ---> "Halite 끝내기"
-"Failed, %1%" --->  ??? 
+"Failed, %1%" ---> "실패, %1%"
 "Fast resume failed: %2%. (%1%)" --->  ??? 
 "File" ---> "파일"
 "Filename" ---> "파일 이름"
 "Files" ---> "파일들"
-"Filtering %1% range(s)" --->  ??? 
+"Filtering %1% range(s)" ---> "%1% 범위 필터링"
 "Finish Time" ---> "종료 시간"
 "Finished" ---> "종료됨"
 "Force Close" ---> "강제 종료"
-"Forced" ---> "強制使用"
-"General Settings" ---> "設定"
-"General" --->  ??? 
-"Generated Torrent Name (Cannot change)" --->  ??? 
+"Forced" ---> "강제 사용"
+"General Settings" ---> "설정"
+"General" ---> "기본"
+"Generated Torrent Name (Cannot change)" ---> "토렌트 이름 생성됨(바꿀 수 없음)"
 "Global Limits" ---> "전역 제한" 
 "Globals" ---> "전역"
-"Halite BitTorrent Client" --->  ??? 
-"Halite Debug Dialog" --->  ??? 
+"Halite BitTorrent Client" ---> "Halite 비트트렌트 클라이언트" 
+"Halite Debug Dialog" ---> "Halite 디버그 모드"
 "Halite importing IP ranges..." --->  ??? 
-"Halite not listening!" --->  ??? 
-"Halite shutting down..." --->  ??? 
+"Halite not listening!" ---> "Halite가 동작하지 않고 있습니다!"
+"Halite shutting down..." ---> "Halite 종료 중.."
 "Handshake" ---> "핸드쉐이크"
 "Has choked us" --->  ??? 
 "Hash failed for piece %2% of %1%." --->  ??? 
-"IP Filter blocked %1%, %2%." --->  ??? 
+"IP Filter blocked %1%, %2%." ---> "IP 필터 차단 %1%, %2%."
 "IP Filtering" ---> "IP 필터링"
 "IP filter disabled" --->  ??? 
 "IP version 6 listen attempt failed. Not serious." --->  ??? 
-"Import ipfilter.dat" --->  ??? 
-"Importing IP Filters..." --->  ??? 
+"Import ipfilter.dat" ---> "ipfilter.dat파일 가져오기" 
+"Importing IP Filters..." ---> "IP 필터 가져오는 중..."
 "Incoming" ---> "下り"
 "Info" ---> "정보"
 "Informed of external IP address: %1%." --->  ??? 
@@ -152,20 +152,20 @@
 "Interesting" ---> "흥미"
 "Invalid torrent (%1%) from %2%." --->  ??? 
 "It will take the BitTorrent session a moment to shutdown cleanly after which this message will disappear and the program will close." --->  ??? 
-"Language (requires restart)" ---> "言語 (Haliteの次回起動時に)"
+"Language (requires restart)" ---> "언어(프로그램 재시작 필요)"
 "Limit the no. of half-open connections" --->  ??? 
-"List of Trackers." --->  ??? 
+"List of Trackers." ---> "트래커 목록."
 "Loading IP filters..." ---> "IP필터 가져오는 중..."
 "Local connection" ---> "지역 연결"
 "Log debug events." ---> "디버그 이벤트 기록."
 "Log off Windows" ---> "윈도 로그오프"
-"Log to file." ---> ""
+"Log to file." ---> "파일 로그."
 "Logging" ---> "가져오는중"
 "Manage Torrent(s)" --->  ??? 
 "Managed Downloading" --->  ??? 
 "Managed Seeding" --->  ??? 
 "Managed Torrent" --->  ??? 
-"Managed" --->  ??? 
+"Managed" ---> "관리됨"
 "Match the listen port number (recommended)." --->  ??? 
 "Max Size (MiB) :" ---> "최대 크기(MiB)" 
 "Max failures : " --->  ??? 
@@ -320,19 +320,19 @@
 "Torrent %1% file %2% completed." --->  ??? 
 "Torrent %1% file %2% renamed failed." --->  ??? 
 "Torrent %1% file %2% renamed to %3%." --->  ??? 
-"Torrent %1% finished." --->  ??? 
+"Torrent %1% finished." ---> "토렌트 %1% 완료됨."
 "Torrent %1% metadata failed!" --->  ??? 
 "Torrent %1% metadata recieved." --->  ??? 
 "Torrent %1% paused." --->  ??? 
 "Torrent (%1%) exception caught: %2% from %3%." --->  ??? 
 "Torrent Completed!" ---> "토렌트 완료"
-"Torrent Defaults" --->  ??? 
+"Torrent Defaults" ---> "토렌트 기본"
 "Torrent File" ---> "토렌트 파일"
 "Torrent Root" ---> "토렌트 경로"
-"Torrent and Data" ---> ".torrentファイルとダウンロードデータを"
-"Torrent completed balloon" --->  ??? 
+"Torrent and Data" ---> "토렌트와 데이터"
+"Torrent completed balloon" ---> "토렌트 완료 말풍선"
 "Torrent connection limits:" ---> "トレントあたりの最大ピア接続数"
-"Torrent error: %1% (%2%)" --->  ??? 
+"Torrent error: %1% (%2%)" ---> "토렌트 에러: %1% (%2%)" 
 "Torrent save folder:" ---> "토렌트 저장 폴더:"
 "Torrent transfer rates (KB/s):" ---> "토렌트 전송속도(KB/초)"
 "Torrent" ---> "토렌트"
@@ -348,7 +348,7 @@
 "Tracker" ---> "트래커"
 "Tracker:" ---> "트래커:"
 "Trackers" ---> "트래커" 
-"Transferred:" --->  ??? 
+"Transferred:" ---> "전송됨:"
 "Type" ---> "타입"
 "UPnP router model (if recognised)." --->  ??? 
 "UPnP" ---> "UPnP"
@@ -356,9 +356,9 @@
 "URL" ---> "URL"
 "UnPlug and Play" ---> "언플러그와 플레이"
 "Unicode exception: %1%." --->  ??? 
-"Unmanaged" --->  ??? 
-"Up" ---> "上り"
-"Update in:" ---> "更新時間:"
+"Unmanaged" ---> "관리 안됨"
+"Up" ---> "상위"
+"Update in:" ---> "업데이트:"
 "Upload Rate (KB/s) :" ---> "업로드 속도(KB/초) :"
 "업로드만" ---> "업로드만"
 "업로드" ---> "업로드"
@@ -369,7 +369,7 @@
 "Username : " ---> "사용자 이름 : "
 "Warning" ---> "주의"
 "Web Seed" ---> "웹 시드"
-"Web Seeds and DHT Nodes" --->  ??? 
+"Web Seeds and DHT Nodes" ---> "윕 시드과 DHT 노드" 
 "Write Cache Hit Ratio :" --->  ??? 
 "Xml Exception (%1%) with %2%." ---> "Xml 예외 (%1%) with %2%."
 "\r\0" ---> "\r\0"
@@ -377,6 +377,6 @@
 "random up to" --->  ??? 
 "resource.h\0" ---> "resource.h\0"
 "to" ---> "まで"
-"uTorrent Metadata Plugin" --->  ??? 
+"uTorrent Metadata Plugin" ---> "u토렌트 메타데이터 플러그인"
 "uTorrent Peer Exchange Plugin" --->  ??? 
 "∞" ---> "무한"
